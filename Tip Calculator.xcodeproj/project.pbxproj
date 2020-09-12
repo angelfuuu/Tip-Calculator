@@ -15,6 +15,7 @@
 		1BB6F493250C16A80047C8A6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1BB6F491250C16A80047C8A6 /* LaunchScreen.storyboard */; };
 		1BB6F49E250C16A80047C8A6 /* Tip_CalculatorTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1BB6F49D250C16A80047C8A6 /* Tip_CalculatorTests.swift */; };
 		1BB6F4A9250C16A80047C8A6 /* Tip_CalculatorUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1BB6F4A8250C16A80047C8A6 /* Tip_CalculatorUITests.swift */; };
+		1BB6F4B7250C2E9F0047C8A6 /* TipCalculator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1BB6F4B6250C2E9F0047C8A6 /* TipCalculator.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		1BB6F4A4250C16A80047C8A6 /* Tip CalculatorUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Tip CalculatorUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		1BB6F4A8250C16A80047C8A6 /* Tip_CalculatorUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tip_CalculatorUITests.swift; sourceTree = "<group>"; };
 		1BB6F4AA250C16A80047C8A6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1BB6F4B6250C2E9F0047C8A6 /* TipCalculator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TipCalculator.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				1BB6F486250C16A30047C8A6 /* AppDelegate.swift */,
 				1BB6F488250C16A30047C8A6 /* SceneDelegate.swift */,
 				1BB6F48A250C16A30047C8A6 /* ViewController.swift */,
+				1BB6F4B6250C2E9F0047C8A6 /* TipCalculator.swift */,
 				1BB6F48C250C16A30047C8A6 /* Main.storyboard */,
 				1BB6F48F250C16A80047C8A6 /* Assets.xcassets */,
 				1BB6F491250C16A80047C8A6 /* LaunchScreen.storyboard */,
@@ -260,6 +263,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				1BB6F48B250C16A30047C8A6 /* ViewController.swift in Sources */,
+				1BB6F4B7250C2E9F0047C8A6 /* TipCalculator.swift in Sources */,
 				1BB6F487250C16A30047C8A6 /* AppDelegate.swift in Sources */,
 				1BB6F489250C16A30047C8A6 /* SceneDelegate.swift in Sources */,
 			);
